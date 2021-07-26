@@ -1,6 +1,8 @@
 # Nameless-chan - about me
 I am an 18 year old student who loves computer security. I do a lot of CTF with the Jump2Flag team. <br>
 [Jump2Flag on CTF Time](https://ctftime.org/team/152366) <br>
+
+eJPT certification owner
 <!---
 //Owner of [**noname-chan.com**](https://noname-chan.com). Some friends and i post a lot of security and programming stuff there so you should check out.<br>
 -->
