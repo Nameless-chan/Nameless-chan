@@ -3,9 +3,7 @@ I am an 18 year old student who loves computer security. I do a lot of CTF with 
 [Jump2Flag on CTF Time](https://ctftime.org/team/152366) <br>
 
 eJPT certification owner
-<!---
-//Owner of [**noname-chan.com**](https://noname-chan.com). Some friends and i post a lot of security and programming stuff there so you should check out.<br>
--->
+
 My accounts on security platform: <br>
 [Root-Me](https://www.root-me.org/IAmZero) <br>
 [TryHackMe](https://tryhackme.com/p/kav) <br>
