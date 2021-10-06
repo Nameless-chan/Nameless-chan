@@ -4,6 +4,9 @@ I am an 18 year old student who loves computer security. I do a lot of CTF with 
 
 eJPT certification owner
 
+I write some stuff about maths and infosec on [phasetw0](https://phasetw0.com) website; such as [this](https://phasetw0.com/maths/complex-number/) <br>
+I also do some CTF with them.
+
 My accounts on security platform: <br>
 [Root-Me](https://www.root-me.org/IAmZero) <br>
 [TryHackMe](https://tryhackme.com/p/kav) <br>
