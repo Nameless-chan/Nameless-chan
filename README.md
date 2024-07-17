@@ -1,5 +1,5 @@
 # Zerotistic - about me
-I am an 20 year old vulnerability researcher & reverse engineer who loves computer security. I do CTFs weekly and have been part of the Belgium team at ECSC in 2022 and 2023. I main pwn and reverse engineering, but I also do some web, can grep forensics flags and guess the crypto. <br>
+I am an 20 year old vulnerability researcher & reverse engineer who loves computer security. I do CTFs weekly and have been part of the Belgium team at ECSC in 2022 and 2023. I main pwn and reverse engineering, but I also do some web, can grep forensics flags and guess the cipher. <br>
 I am a CTF player for [idek](https://www.idek.team/) & [Friendly Maltese Citizens](https://ctf.mt/) (with whom I'll be playing as a finalist for DEFCON 2024) <br>
 
 My interesting projects are private !
@@ -20,7 +20,3 @@ Certifications:<br>
 [eJPT](https://security.ine.com/certifications/ejpt-certification/) <br>
 [Code Review @ PentesterLab](https://pentesterlab.com/) <br>
 [Android Application @ PentesterLab](https://pentesterlab.com/) <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zerotistic&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zerotistic's GitHub Stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerotistic" alt="Zerotisitc's GitHub Most Used Langage">
